@@ -1,0 +1,27 @@
+{
+	"apiVersion": 2,
+	"name": "kamal/block-boilerplate",
+	"title": "Sample Block Boilerplate",
+	"category": "widgets",
+	"icon": "products",
+	"description": "Sample block",
+	"keywords": ["sample","block", "latest","products", "custom", "custom products", "woo", "woocommerce"],
+	"supports": {
+		"html": false
+	},
+	"textdomain": "block-boilerplate",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+	"attributes": {
+		"gridGap": {
+			"type": "string",
+			"default": "30px"
+		},
+		"displaySaleTag": {
+			"type": "boolean",
+			"default": true
+		}
+
+	}
+}
