@@ -5,7 +5,16 @@
 	"category": "widgets",
 	"icon": "products",
 	"description": "Sample block",
-	"keywords": ["sample","block", "latest","products", "custom", "custom products", "woo", "woocommerce"],
+	"keywords": [
+		"sample",
+		"block",
+		"latest",
+		"products",
+		"custom",
+		"custom products",
+		"woo",
+		"woocommerce"
+	],
 	"supports": {
 		"html": false
 	},
@@ -22,6 +31,5 @@
 			"type": "boolean",
 			"default": true
 		}
-
 	}
 }
