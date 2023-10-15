@@ -23,7 +23,7 @@
 			"wp-scripts lint-js",
 			"wp-scripts format"
 		],
-		"*.scss": "wp-scripts lint-style"
+		"*.scss": "npx stylelint --fix"
 	},
 	"dependencies": {
 		"@wordpress/block-editor": "^12.11.1",
