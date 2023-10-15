@@ -1,1 +1,1 @@
-{"version":3,"file":"index.css","mappings":";;;AAAA;EACA;AACA,C","sources":["webpack://block-boilerplate/./src/editor.scss"],"sourcesContent":[".test {\ncolor: #f00;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://block-boilerplate/./src/editor.scss"],"sourcesContent":[".test {\n\tcolor: #f00;\n}\n"],"names":[],"sourceRoot":""}
