@@ -1,1 +1,1 @@
-{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://block-boilerplate/./src/style.scss"],"sourcesContent":[".test {\n\tcolor: #00f;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://explore-block/./src/style.scss"],"sourcesContent":[".test {\n\tcolor: #00f;\n}\n"],"names":[],"sourceRoot":""}

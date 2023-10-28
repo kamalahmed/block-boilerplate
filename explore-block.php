@@ -1,12 +1,12 @@
 <?php
 /**
-* Plugin Name: Block Boilerplate
+* Plugin Name: Explore Block
 * Plugin URI: https://github.com/kamalahmed
-* Description: This is a test block plugin
+* Description: This plugin shows example of different block editor elements
 * Version: 1.0
 * Author: Kamal Ahmed
 * Author URI: https://github.com/kamalahmed
-* Text Domain: block-boilerplate
+* Text Domain: explore-block
 * Domain Path: languages/
 * Requires at least: 6.0
 * Requires PHP: 7.4
@@ -14,7 +14,7 @@
 */
 
 
-class BlockBoilerplate{
+class ExploreBlock{
 	public function __construct() {
 		add_action( 'init', [$this, 'register_block'] );
 	}
@@ -44,4 +44,4 @@ class BlockBoilerplate{
 }
 
 
-new BlockBoilerplate;
+new ExploreBlock;

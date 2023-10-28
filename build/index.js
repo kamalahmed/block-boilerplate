@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-(0,_wordpress_blocks__WEBPACK_IMPORTED_MODULE_0__.registerBlockType)('kamal/block-boilerplate', {
+(0,_wordpress_blocks__WEBPACK_IMPORTED_MODULE_0__.registerBlockType)('explore-block/text-box', {
   edit() {
     return 'Hello Editor';
   },
@@ -216,7 +216,7 @@ module.exports = window["wp"]["blocks"];
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkblock_boilerplate"] = self["webpackChunkblock_boilerplate"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkexplore_block"] = self["webpackChunkexplore_block"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	}();

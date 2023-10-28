@@ -1,24 +1,24 @@
 {
 	"apiVersion": 2,
-	"name": "kamal/block-boilerplate",
-	"title": "Sample Block Boilerplate",
-	"category": "widgets",
-	"icon": "products",
-	"description": "Sample block",
+	"name": "explore-block/text-box",
+	"title": "Text Box",
+	"category": "text",
+	"icon": "text-page",
+	"description": "A box of text",
 	"keywords": [
-		"sample",
-		"block",
-		"latest",
-		"products",
-		"custom",
-		"custom products",
-		"woo",
-		"woocommerce"
+		"paragraph",
+		"information",
+		"info",
+		"text",
+		"kamal",
+		"explore",
+		"box",
+		"block"
 	],
 	"supports": {
 		"html": false
 	},
-	"textdomain": "block-boilerplate",
+	"textdomain": "explore-block",
 	"editorScript": "file:./build/index.js",
 	"editorStyle": "file:./build/index.css",
 	"style": "file:./build/style-index.css",
